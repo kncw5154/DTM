@@ -2,11 +2,11 @@
 
 Dieselben Einwohnerzahlen, drei Darstellungen: 3.913.644 Einwohner in 542 LOR-Planungsräumen. Die absolute Karte zeigt die Einwohner je Planungsraum, die relative die Einwohner je km² Gesamtfläche. Die dasymetrische Karte verteilt die Einwohner nur auf die tatsächlich bewohnten Blöcke des Umweltatlas und zeigt so, wo Berlin wirklich dicht besiedelt ist.
 
-[![Bevölkerungsverteilung Berlin 2025 – absolute, relative und dasymetrische Choroplethenkarte](EP01_Bevoelkerungsverteilung_Berlin_2025.png)](PDF/EP01_Bevoelkerungsverteilung_Berlin_2025.pdf)
+[![Bevölkerungsverteilung Berlin 2025 – absolute, relative und dasymetrische Choroplethenkarte](EP01_Bevoelkerungsverteilung_Berlin_2025.png)](EP01_Bevoelkerungsverteilung_Berlin_2025.pdf)
 
 ## EP.02 | Gitterchoroplethenkarten
 
-<a href="PDF/EP02_Kirschen_Berlin_Hexagon_500m.pdf"><img src="EP02_Kirschen_Berlin_Hexagon_500m.png" alt="Kirschbäume in Berlin – Gitterchoroplethenkarte auf Hexagonbasis" align="right" width="500"></a>
+<a href="EP02_Kirschen_Berlin_Hexagon_500m.pdf"><img src="EP02_Kirschen_Berlin_Hexagon_500m.png" alt="Kirschbäume in Berlin – Gitterchoroplethenkarte auf Hexagonbasis" align="right" width="500"></a>
 
 21.622 Kirschbäume aus dem Berliner Straßen- und Anlagenbaumbestand (Gattung *Prunus*), gezählt in einem Hexagongitter mit 500 m Seitenlänge.
 
@@ -28,11 +28,11 @@ Größe und Farbe der Blüte wachsen mit der Anzahl der Bäume, von Weiß bis Ro
 
 Die Parlamentswahl in Ungarn 2026 in den 106 Wahlkreisen. Die Hauptkarte färbt jeden Wahlkreis nach dem Gewinner und stuft die Farbe nach dessen Stimmanteil ab: Tisza gewinnt 96 Direktmandate, Fidesz-KDNP 10. Dazu kommen ein Ausschnitt für Budapest, die Sitzverteilung der Parteilisten (45 / 42 / 6) und je eine Choroplethenkarte der Stimmanteile beider Parteien.
 
-[![Parlamentswahl Ungarn 2026 – Value-By-Alpha-Karte der Wahlkreisergebnisse](EP04_Ungarn_Wahlen_2026_Value-By-Alpha.png)](PDF/EP04_Ungarn_Wahlen_2026_Value-By-Alpha.pdf)
+[![Parlamentswahl Ungarn 2026 – Value-By-Alpha-Karte der Wahlkreisergebnisse](EP04_Ungarn_Wahlen_2026_Value-By-Alpha.png)](EP04_Ungarn_Wahlen_2026_Value-By-Alpha.pdf)
 
 ## EP.05 | Ursprung-Ziel-Karten
 
-<a href="PDF/EP05_Flowmap_BHT_Incoming_2024.pdf"><img src="EP05_Flowmap_BHT_Incoming_2024.png" alt="Incoming-Studierende an der BHT Berlin 2024 – Flowmap auf dem Globus" align="right" width="420"></a>
+<a href="EP05_Flowmap_BHT_Incoming_2024.pdf"><img src="EP05_Flowmap_BHT_Incoming_2024.png" alt="Incoming-Studierende an der BHT Berlin 2024 – Flowmap auf dem Globus" align="right" width="420"></a>
 
 Woher kommen die Austauschstudierenden der BHT?
 
@@ -47,11 +47,11 @@ Das Relief im Lego-Stil: Jede Rasterzelle ist ein Legostein, die Farbe zeigt ihr
 <table>
   <tr>
     <td valign="top" width="62%">
-      <a href="PDF/EP06_Lego_Relief_Berlin_A3.pdf"><img src="EP06_Lego_Relief_Berlin_A3.png" alt="Relief von Berlin im Lego-Stil – Tilemap auf Quadratgitterbasis" width="560"></a>
+      <a href="EP06_Lego_Relief_Berlin_A3.pdf"><img src="EP06_Lego_Relief_Berlin_A3.png" alt="Relief von Berlin im Lego-Stil – Tilemap auf Quadratgitterbasis" width="560"></a>
       <p><b>Berlin</b><br>1 × 1 km-Zellen aus dem Digitalen Geländemodell Berlin, von 29,6 m bis 82,1 m.</p>
     </td>
     <td valign="top" width="38%">
-      <a href="PDF/EP06_Lego_Relief_Deutschland_A3.pdf"><img src="EP06_Lego_Relief_Deutschland_A3.png" alt="Relief Deutschlands im Lego-Stil – Tilemap auf Quadratgitterbasis" width="280"></a>
+      <a href="EP06_Lego_Relief_Deutschland_A3.pdf"><img src="EP06_Lego_Relief_Deutschland_A3.png" alt="Relief Deutschlands im Lego-Stil – Tilemap auf Quadratgitterbasis" width="280"></a>
       <p><b>Deutschland</b><br>3.860 Steine mit 10 × 10 km aus dem SRTM-Höhenmodell, von der Küste bis in die Alpen.</p>
     </td>
   </tr>
@@ -82,11 +82,11 @@ Die LoD2-Gebäudemodelle Thüringens rund um den Erfurter Dom, einmal als 2,5D-A
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="PDF/EP09_Erfurt_Domplatz_2_5D.pdf"><img src="EP09_Erfurt_Domplatz_2_5D.png" alt="Erfurt, Domplatz und Altstadt – 2,5D-Ansicht der LoD2-Dachflächen" width="420"></a>
+      <a href="EP09_Erfurt_Domplatz_2_5D.pdf"><img src="EP09_Erfurt_Domplatz_2_5D.png" alt="Erfurt, Domplatz und Altstadt – 2,5D-Ansicht der LoD2-Dachflächen" width="420"></a>
       <p><b>2,5D · Domplatz und Altstadt</b><br>Die Dachfarbe wird mit der Gebäudehöhe wärmer. Platzflächen, Domstufen und Bäume stammen aus OpenStreetMap.</p>
     </td>
     <td valign="top" width="50%">
-      <a href="PDF/EP09_Erfurt_Dom_3D.pdf"><img src="EP09_Erfurt_Dom_3D.png" alt="Erfurt, Dom und Domplatz – 3D-Ansicht der LoD2-Gebäude" width="420"></a>
+      <a href="EP09_Erfurt_Dom_3D.pdf"><img src="EP09_Erfurt_Dom_3D.png" alt="Erfurt, Dom und Domplatz – 3D-Ansicht der LoD2-Gebäude" width="420"></a>
       <p><b>3D · Dom und Domplatz</b><br>Die Szene ist aus den Dach- und Wandflächen der LoD2-Modelle aufgebaut.</p>
     </td>
   </tr>
